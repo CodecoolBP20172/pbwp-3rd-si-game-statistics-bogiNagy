@@ -1,0 +1,5 @@
+The number of games in the file: 24
+The answer of is there a game with a given year: True
+The latest game was: Diablo III
+From the given genre there are: 3
+This is the line of the given game: 7
